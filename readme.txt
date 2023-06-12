@@ -2,3 +2,4 @@ This project allows all the students and professors scan the QR code and submit 
 COVID reports before entering the campus. After users submitted their report, the python 
 program will automatically detect any unusual health conditions and if the condition is bad, 
 it will automatically send information to the campus medical center).
+The code includes five steps which are importing modules, variable declaration, database operations, email generation & sending and final completion. They perform the function of data retrieval, csv file generation and email sending.
